@@ -1,6 +1,6 @@
 # Game//Cat ::: Revsion_R3 :: Versión 2.91
 
-![](https://github.com/trunksx64/Kicad_GameCat_R3/blob/master/images/front.png)
+![](https://github.com/trunksx64/Game_Cat_R3_PCB/blob/master/images/front.png)
 
 ## Razon de Ser e Inspiración
 
@@ -77,12 +77,12 @@ Básicamente esto es el GAME//CAT, una tarjeta mas que un sistema de control par
 
 ## Creditos
 
-![](https://github.com/trunksx64/Kicad_GameCat_R3/blob/master/images/banner_game_cat.png)
+![](https://github.com/trunksx64/Game_Cat_R3_PCB/blob/master/images/banner_game_cat.png)
 
 xDNA Electronics & Desing es una Micro-empresa Personal, que se dedica y encarga de elaborar proyectos de Control y Automatización por pedido, su idea es colaborar y ayudar a quines a si lo requieran, el proyecto se hizo principalmente como Hobby el cual gracias a terceros se pudo implementar y hacer su creación, por lo cual se da la libertad de usarlo para experimentar sin hacer uso comercial del mismo.
 
 ## Licencia
 
-![](https://github.com/trunksx64/Kicad_GameCat_R3/blob/master/images/creative_commons.png)
+![](https://github.com/trunksx64/Game_Cat_R3_PCB/blob/master/images/creative_commons.png)
 
 Licensed under Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
