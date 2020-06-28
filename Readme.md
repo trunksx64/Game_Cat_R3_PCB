@@ -4,9 +4,9 @@
 
 ## Razon de Ser e Inspiración
 
-Este Control se basa en la Idea Original del Game//Cat Version R1, el cual asu vez se imspira en el diseño del Arduino Esplora. El primer Control se implemento para ser presentado como Tesis de Grado de Especialización de Grado. Se Utiliza como Herramienta de Programacion para Tarjeta de Control de Ascensores Usando Un Firmware de Codigo Cerrado. Se Implemento FREERTOS para su uso, asi como librerias Basicas en MplabX y XC16. La idea principal es usar los Microcontroladores de 16Bits de Microchip con perifericos listos y configurados. Es pequeño y Portable, ideal para llevar a todo lado, no intenta competir con controles similares a Arduino. Se desea implentar a futuro un Bootloader tanto por USB, RS232, SD y CAN.
+Este Control se basa en la Idea Original del Game//Cat Version R1, el cual asu vez se inspira en el diseño del joystick y botones del Arduino Esplora. El primer Control se implemento para ser usado como parametrizador y las siguientes revsiones se presento como Tesis de Grado de Especialización de Instrumentación Industrial que curse. Se Utilizo principalmente como Herramienta de Programacion para Tarjeta de Control de Ascensores Usando Un Firmware de Codigo Cerrado. Se Implemento FREERTOS para su uso, asi como librerias Basicas en MplabX y XC16. La idea principal es usar los Microcontroladores de 16Bits de Microchip con perifericos listos y configurados. Es pequeño y Portable, ideal para llevar a todo lado, no intenta competir con controles similares a Arduino. Se desea implentar a futuro un Bootloader tanto por USB, RS232, SD y CAN.
 
-Por el Momento Requiere Programdor Basado en Pickit2 como minimo o un ICD3/4. Link
+Por el Momento Requiere Programdor Basado en Pickit2 como minimo o un ICD3. Link
 
 ## Caracteristicas del Hardware
 
